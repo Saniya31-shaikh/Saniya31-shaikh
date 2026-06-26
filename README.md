@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Saniya Shaikh 👋
 
-<!--
-**Saniya31-shaikh/Saniya31-shaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student (Data Science) | Machine Learning Enthusiast | Healthcare AI Research
 
-Here are some ideas to get you started:
+I'm passionate about applying machine learning and data science to solve real-world problems, particularly in healthcare. Alongside AI, I enjoy building backend systems, working with databases, and developing APIs that support scalable, data-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Current Research
+
+**Network-Based Multi-Organ Adverse Drug Reaction Analysis using FAERS**
+
+My current research focuses on integrating network analysis with machine learning to study multi-organ adverse drug reactions using the FDA Adverse Event Reporting System (FAERS).
+
+## 💻 Technical Skills
+
+### Languages
+- Python
+- Java
+- JavaScript
+- SQL
+
+### Machine Learning & Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- NetworkX
+
+###Backend & APIs
+• FastAPI
+• Django
+• Java Servlets
+• JDBC
+• REST APIs
+
+###Databases & Data Stores
+• MySQL
+• MongoDB
+• Cassandra
+• Redis
+
+### Tools
+- Docker
+- Git
+- GitHub
+- Postman
+- Swagger
+
+## 📌 Current Focus
+
+- Healthcare AI
+- Machine Learning
+- Network Analysis
+- Research using FAERS
