@@ -24,14 +24,14 @@ My current research focuses on integrating network analysis with machine learnin
 - Scikit-learn
 - NetworkX
 
-###Backend & APIs
+### Backend & APIs
 • FastAPI
 • Django
 • Java Servlets
 • JDBC
 • REST APIs
 
-###Databases & Data Stores
+### Databases & Data Stores
 • MySQL
 • MongoDB
 • Cassandra
