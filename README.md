@@ -52,3 +52,7 @@ My current research focuses on integrating network analysis with machine learnin
 - Machine Learning
 - Network Analysis
 - Research using FAERS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saniya31-shaikh&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saniya31-shaikh&layout=compact)
