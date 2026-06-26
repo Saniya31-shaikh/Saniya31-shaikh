@@ -25,6 +25,7 @@ My current research focuses on integrating network analysis with machine learnin
 - NetworkX
 
 ### Backend & APIs
+
 - FastAPI
 - Django
 - Java Servlets
@@ -32,6 +33,7 @@ My current research focuses on integrating network analysis with machine learnin
 - REST APIs
 
 ### Databases & Data Stores
+
 - MySQL
 - MongoDB
 - Cassandra
